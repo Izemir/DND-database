@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dnd_db.iml" filepath="$PROJECT_DIR$/.idea/modules/dnd_db.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dnd_db_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dnd_db_main.iml" group="dnd_db" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dnd_db_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dnd_db_test.iml" group="dnd_db" />
     </modules>
   </component>
 </project>
